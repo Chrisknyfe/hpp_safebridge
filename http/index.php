@@ -1,3 +1,5 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>SafeBridge - Home</title>
 <!-- Latest compiled and minified CSS -->
@@ -32,3 +34,4 @@
 </div>
 
 </body>
+</html>
