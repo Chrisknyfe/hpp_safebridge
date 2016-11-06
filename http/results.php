@@ -60,6 +60,13 @@
 		<div class="row row-content">
 			<h4><p>Based on the details you shared, you may be a survivor of sexual violence.  We understand that you have experienced a stressful situation, and want you to know that you have made the right decision to understand your circumstances and take control of your next steps<br>
 			</p></h4>
+
+			<p> It sounds like this event occured between you and someone you know. You indicated that nonconsensual penetration or nonconsensual oral sex occured by someone taking advantage of you when you were drunk or high.  You did not indicate that the act occured while you were asleep, unconscious, or unable to resist or respond.  You may be unsure of how to deal with your future relationship with this person. </p>
+
+			<p> 63% of other survey respondents in your demographic have indicated experiencing a similar incident.</p>
+
+			<P> Of those respondents, 15% contacted CST, and 5% went to the ER.  35% considered ending contact with the other person. </P>
+
 			<div class="progress" id="standing">
 				<div class="progress-bar progress-bar-danger" style="width: 10%">
 					<span class="sr-only">10% Complete (danger)</span>
@@ -79,9 +86,20 @@
 			<div class="col-sm-4">
 			</div>
 			<div class="col-sm-4">
-				<h4>Stanford classifies your experience as <strong>Possible Sexual Assault/Misconduct</strong>.</h4>
+				<h4><a href = "https://adminguide.stanford.edu/chapter-1/subchapter-7/policy-1-7-3#anchor-24469">Stanford's Prohibited Sexual Conduct Policy</a> classifies your experience as <strong>Sexual Misconduct</strong>.</h4>
 				<div class="well well-lg">
-					<u>Possible Sexual Assault/Misconduct</u><br>Penetration without consent and oral sex without consent, either completed or attempted, where more information would be needed about how the act was accomplished to determine whether it would be categorized as assault or misconduct.
+					<p>Sexual misconduct is the commission of a sexual act, whether by a stranger or nonstranger and regardless of the gender of any party, which occurs without indication of consent.<br></p>
+
+<p>1. The following acts or attempted acts can be the subject of a Sexual Misconduct or Sexual Assault charge:<br>
+a) vaginal or anal intercourse;<br>
+b) digital penetration;<br>
+c) oral copulation; or<br>
+d) penetration with a foreign object<br></p>
+
+<p>2.  Additional Acts of Sexual Misconduct<br>
+The following completed acts can be the subject of a Sexual Misconduct charge:
+a) unwanted touching or kissing of an intimate body part (whether directly or through clothing); or <br>
+b) recording, photographing, transmitting, viewing or distributing intimate or sexual images without the knowledge and consent of all parties involved.<br></p>
 				</div>
 			</div>
 			<div class="col-sm-4">
