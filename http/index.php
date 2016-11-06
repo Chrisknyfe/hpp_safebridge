@@ -11,7 +11,7 @@
 <div class="container">
 	<div class="jumbotron">
 	<h1>SafeBridge</h1>
-	<p>A web app to connect survivors of sexual assault to helpful resources and to help them report their experiences in a safe way. For the <a href="http://healthplusplus.stanford.edu/">Stanford Health++ Hackathon</a>.</p>
+	<p>Helps individuals who may have experienced sexual violence to distinguish intolerable behavior, regain confidence, and become proactive in his or her recovery. For the <a href="http://healthplusplus.stanford.edu/">Stanford Health++ Hackathon</a>.</p>
 	</div>
 	<div class="container">
 		<div class="row row-content">
@@ -40,10 +40,10 @@
 					<div class="panel panel-default">
 						<div class="panel-heading" role="tab" id="headingUniversity">
 							<h3 class="panel-title">
-								<a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#university" aria-expanded="false" aria-controls="university">For Universities</a>
+								<a role="button" data-toggle="collapse" data-parent="#accordion" href="#university" aria-expanded="true" aria-controls="university">For Universities</a>
 							</h3>
 						</div>
-						<div role="tabpanel" class="panel-collapse collapse" id="university" aria-labelledby="headingUniversity">
+						<div role="tabpanel" class="panel-collapse collapse in" id="university" aria-labelledby="headingUniversity">
 							<div class="panel-body">
 								<strong>Build safe learning environments and residential communities with data-driven campus reporting.</strong>
 								<p>SafeBridge generates automated reports based on anonymous user data to inform the school of campus climate, safety, and student community health.  This data can provide quantitative data on rates and classification of incidents, circumstances of incidents, and utilization of on-campus resources.</p>
