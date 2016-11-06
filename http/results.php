@@ -44,12 +44,11 @@
 						 <span class="glyphicon glyphicon-tree-conifer" aria-hidden="true"></span> Wellness &amp; Self-Care</a></li>
 					<li><a ui-sref="contactus.php">
 						 <span class="glyphicon glyphicon-envelope" aria-hidden="true"></span> Contact Us</a></li>
-                </ul>
-                
-            </div>
-        </div>
-    </nav>
-    <br>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<br>
 	<br>
 	<div class="container">
 		<div class="page-header">
@@ -91,7 +90,9 @@
 							<address>
 							866 Campus Drive<br>
 							Stanford, CA 94305-8580<br>
-							<span class="glyphicon glyphicon-earphone"></span> (650) 498-2336
+							<!-- <span class="glyphicon glyphicon-earphone"></span> (650) 498-2336 -->
+							<a class="btn btn-primary btn-xlg" href="(650) 498-2336"><span class="glyphicon glyphicon-earphone"></span> Click to Call
+							</a>
 							</address>
 						</blockquote>
 					</li>
@@ -104,7 +105,9 @@
 						<blockquote>
 							<p><a href="http://calyouth.org/ca-youth-crisis-line/">California Youth Crisis Line</a></p>
 							24/7 free, confidential service for persons in need up to age 24.<br>
-							<span class="glyphicon glyphicon-earphone"></span> 1-800-843-5200
+							<!-- <span class="glyphicon glyphicon-earphone"></span> 1-800-843-5200 -->
+							<a class="btn btn-primary btn-xlg" href="1-800-843-5200"><span class="glyphicon glyphicon-earphone"></span> Click to Call
+							</a>
 						</blockquote>
 					</li>
 					<li>
@@ -116,8 +119,12 @@
 							Sunnyvale Family Justice Center<br>
 							298 South Sunnyvale Drive<br>
 							Sunnyvale, CA 94086<br><br>
-							<span class="glyphicon glyphicon-earphone"></span> 1-800-572-2782 <small>(Immediate crisis counseling assistance)</small><br>
-							<span class="glyphicon glyphicon-earphone"></span> (408) 749-0793
+							<!-- <span class="glyphicon glyphicon-earphone"></span> 1-800-572-2782 <small>(Immediate crisis counseling assistance)</small><br>
+							<span class="glyphicon glyphicon-earphone"></span> (408) 749-0793 -->
+							<a class="btn btn-warning btn-xlg" href="1-800-572-2782"><span class="glyphicon glyphicon-earphone"></span> Click to Call
+							</a><small>(For immediate crisis counseling assistance)</small><br>
+							<a class="btn btn-primary btn-xlg" href="(408) 749-0793"><span class="glyphicon glyphicon-earphone"></span> Click to Call
+							</a>
 							</address>
 						</blockquote>
 					</li>
