@@ -63,6 +63,8 @@
 
 			<p> It sounds like this event occured between you and someone you know. You indicated that nonconsensual penetration or nonconsensual oral sex occured by someone taking advantage of you when you were drunk or high.  You did not indicate that the act occured while you were asleep, unconscious, or unable to resist or respond.  You may be unsure of how to deal with your future relationship with this person. </p>
 
+			<p>Sexual assault is any type of sexual contact or behavior that occurs without the explicit consent of the recipient. Falling under the definition of sexual assault are sexual activities as forced sexual intercourse, forcible sodomy, child molestation, incest, fondling, and attempted rape.</p>
+
 			<p> 63% of other survey respondents in your demographic have indicated experiencing a similar incident.</p>
 
 			<P> Of those respondents, 15% contacted CST, and 5% went to the ER.  35% considered ending contact with the other person. </P>
@@ -83,8 +85,15 @@
 		<!-- Classification of user's experience according to Stanford scheme (Results 4-7) -->
 		<!-- Results 2, 3 -->
 		<div class="row row-content">
+			
 			<div class="col-sm-4">
+				<h4>Your current emotional state and behaviors may suggest symptoms of <strong>an anxiety or depression disorder</strong>.</h4>
+				<div class="well well-lg">
+					In addition to the physical effects of sexual violence, we know that some survivors of sexual violence are at high risk of experiencing both short and long-term psychological conditions including PTSD, depression, and phobias, and are at increased risk for revictimization.
+					Victims of disaster and other traumatic events often require immediate psychological and medical care. Therefore, routine screening for posttraumatic stress disorder (PTSD) in such individuals is highly recommended.
+				</div>
 			</div>
+			
 			<div class="col-sm-4">
 				<h4><a href = "https://adminguide.stanford.edu/chapter-1/subchapter-7/policy-1-7-3#anchor-24469">Stanford's Prohibited Sexual Conduct Policy</a> classifies your experience as <strong>Sexual Misconduct</strong>.</h4>
 				<div class="well well-lg">
@@ -102,13 +111,7 @@ a) unwanted touching or kissing of an intimate body part (whether directly or th
 b) recording, photographing, transmitting, viewing or distributing intimate or sexual images without the knowledge and consent of all parties involved.<br></p>
 				</div>
 			</div>
-			<div class="col-sm-4">
-				<h4>Your current emotional state and behaviors may suggest symptoms of <strong>an anxiety or depression disorder</strong>.</h4>
-				<div class="well well-lg">
-					In addition to the physical effects of sexual violence, we know that some survivors of sexual violence are at high risk of experiencing both short and long-term psychological conditions including PTSD, depression, and phobias, and are at increased risk for revictimization.
-					Victims of disaster and other traumatic events often require immediate psychological and medical care. Therefore, routine screening for posttraumatic stress disorder (PTSD) in such individuals is highly recommended.
-				</div>
-			</div>
+			
 			<div class="col-sm-4">
 				<h4><u>Your recommended next steps</u></h4><br>
 				<ul class="list-unstyled">
