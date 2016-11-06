@@ -4,3 +4,5 @@ Please write a cute message here so I know you have commit access.
 
 I like pie.
 - Brendan
+
+Hi, this is Ariane.
