@@ -6,7 +6,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<title>Results &amp; Resources</title>
+	<title>SafeBridge - Results &amp; Resources</title>
 	<!-- Bootstrap -->
 	<!-- Latest compiled and minified CSS -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -81,8 +81,8 @@
 			<div class="col-xs-6 col-sm-3">
 				<h4>Your current emotional state and behaviors may suggest symptoms of <strong>an anxiety or depression disorder</strong>.</h4>
 				<div class="well well-lg">
-					In addition to the physical effects of sexual violence, we know that some survivors of sexual violence are at high risk of experiencing both short and long-term psychological conditions including PTSD, depression, and phobias, and are at increased risk for revictimization.<br><br>
-					Victims of disaster and other traumatic events often require immediate psychological and medical care. Therefore, routine screening for posttraumatic stress disorder (PTSD) in such individuals is highly recommended.
+					<p>In addition to the physical effects of sexual violence, we know that some survivors of sexual violence are at high risk of experiencing both short and long-term psychological conditions including PTSD, depression, and phobias, and are at increased risk for revictimization.</p>
+					<p>Victims of disaster and other traumatic events often require immediate psychological and medical care. Therefore, routine screening for posttraumatic stress disorder (PTSD) in such individuals is highly recommended.</p>
 				</div>
 			</div>
 			
@@ -96,7 +96,7 @@
 					c) oral copulation; or<br>
 					d) penetration with a foreign object.<br></p>
 					
-					<p>2.  Additional Acts of Sexual Misconduct<br>
+					<p>2. Additional Acts of Sexual Misconduct<br>
 					The following completed acts can be the subject of a Sexual Misconduct charge:
 					a) unwanted touching or kissing of an intimate body part (whether directly or through clothing); or <br>
 					b) recording, photographing, transmitting, viewing or distributing intimate or sexual images without the knowledge and consent of all parties involved.<br></p>
@@ -105,7 +105,8 @@
 			
 			<div class="col-xs-6 col-sm-3">
 				<h4><u>Your recommended next steps</u></h4>
-				<p><h4>Because the incident occurred recently, we suggest <strong>Emergency Assistance</strong> through the following resources.</h4></p><br>
+				<p><h4>Because the incident occurred recently, we suggest <strong>seeking medical care ASAP</strong>.</h4></p><br>
+				<p>It is very important to seek medical attention, regardless of whether or not you want to report the crime to the police. You should be checked and treated for possible injuries, even if none are visible.</p><p>This includes testing for HIV and other sexually transmitted infections (STIs), as well as receiving preventive treatments that may be available and effective at this time.</p><p>For example, you may be able to receive medications that prevent STIs (including HIV) and pregnancy. Even if you are unsure about filing a police report, you should still receive medical attention.</p><br>
 				<ul class="list-unstyled">
 					<li>
 						<blockquote>
