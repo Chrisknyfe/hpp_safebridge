@@ -1,9 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <title>SafeBridge - Home</title>
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 </head>
 <body>
+<?php include "modules/navbar.php" ?>
 <div class="container">
 	<div class="jumbotron">
 	<h1>SafeBridge</h1>
@@ -31,3 +34,4 @@
 </div>
 
 </body>
+</html>
