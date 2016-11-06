@@ -58,7 +58,7 @@
 		
 		<!-- Slider or bar graph showing comparison to what is healthy based on the responses of other users (Results 1) -->
 		<div class="row row-content">
-			<h4><p>The yellow bar is where you stand on recovery, based on the answers you supplied. The green bar is for the fully healthy and/or recovered.<br>
+			<h4><p>Based on the details you shared, you may be a survivor of sexual violence.  We understand that you have experienced a stressful situation, and want you to know that you have made the right decision to understand your circumstances and take control of your next steps<br>
 			</p></h4>
 			<div class="progress" id="standing">
 				<div class="progress-bar progress-bar-danger" style="width: 10%">
@@ -72,9 +72,12 @@
 				</div>
 			</div>
 		</div>
+
 		<!-- Classification of user's experience according to Stanford scheme (Results 4-7) -->
 		<!-- Results 2, 3 -->
 		<div class="row row-content">
+			<div class="col-sm-4">
+			</div>
 			<div class="col-sm-4">
 				<h4>Stanford classifies your experience as <strong>Possible Sexual Assault/Misconduct</strong>.</h4>
 				<div class="well well-lg">
@@ -82,8 +85,40 @@
 				</div>
 			</div>
 			<div class="col-sm-4">
-				<h4><u>Further resources at Stanford</u></h4><br>
+				<h4>Your current emotional state and behaviors may suggest symptoms of <strong>an anxiety or depression disorder</strong>.</h4>
+				<div class="well well-lg">
+					In addition to the physical effects of sexual violence, we know that some survivors of sexual violence are at high risk of experiencing both short and long-term psychological conditions including PTSD, depression, and phobias, and are at increased risk for revictimization.
+					Victims of disaster and other traumatic events often require immediate psychological and medical care. Therefore, routine screening for posttraumatic stress disorder (PTSD) in such individuals is highly recommended.
+				</div>
+			</div>
+			<div class="col-sm-4">
+				<h4><u>Your recommended next steps</u></h4><br>
 				<ul class="list-unstyled">
+				<li>
+						<blockquote>
+							<p>Because the incident occured recently, we suggest<b>Emergency Assistance</b><br></p>
+							
+							<address>
+							866 Campus Drive<br>
+							Stanford, CA 94305-8580<br>
+							<!-- <span class="glyphicon glyphicon-earphone"></span> (650) 498-2336 -->
+							<a class="btn btn-primary btn-xlg" href="(650) 725-9955"><span class="glyphicon glyphicon-earphone"></span> Click to Call 24/7
+							</a>
+							</address>
+						</blockquote>
+					</li>
+					<li>
+						<blockquote>
+							<p><a href="http://www.vaden.stanford.edu/sexual-assault">Confidential Support Team (CST)</a>Confidential support and help accessing resources, short-term emotional support, and ongoing individual counseling; free to Stanford students</p>
+							<address>
+							866 Campus Drive<br>
+							Stanford, CA 94305-8580<br>
+							<!-- <span class="glyphicon glyphicon-earphone"></span> (650) 498-2336 -->
+							<a class="btn btn-primary btn-xlg" href="(650) 725-9955"><span class="glyphicon glyphicon-earphone"></span> Click to Call 24/7
+							</a>
+							</address>
+						</blockquote>
+					</li>
 					<li>
 						<blockquote>
 							<p><a href="https://vaden.stanford.edu/make-appointment/counseling-and-psychological-services">Counseling and Psychological Services</a></p>
