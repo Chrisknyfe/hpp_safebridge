@@ -45,20 +45,20 @@
 			<div class="form-group">
 				<label for="kissed" class="col-sm-2 control-label">Someone touched, fondled, or rubbed up against the private areas of my body without my consent</label>
 				<div class="col-sm-9">
-					<input type="radio" name="q1" value="once"> Once
-					<input type="radio" name="q1" value="more"> More
-					<input type="radio" name="q1" value="never"> Never
-					<input type="radio" name="q1" value="unsure"> Unsure
+					<input type="radio" name="q2" value="once"> Once
+					<input type="radio" name="q2" value="more"> More
+					<input type="radio" name="q2" value="never"> Never
+					<input type="radio" name="q2" value="unsure"> Unsure
 
 				</div>
 			</div>
 			<div class="form-group">
 				<label for="kissed" class="col-sm-2 control-label">Someone removed some of my clothes without my consent</label>
 				<div class="col-sm-9">
-					<input type="radio" name="q1" value="once"> Once
-					<input type="radio" name="q1" value="more"> More
-					<input type="radio" name="q1" value="never"> Never
-					<input type="radio" name="q1" value="unsure"> Unsure
+					<input type="radio" name="q3" value="once"> Once
+					<input type="radio" name="q3" value="more"> More
+					<input type="radio" name="q3" value="never"> Never
+					<input type="radio" name="q3" value="unsure"> Unsure
 
 				</div>
 			</div>
